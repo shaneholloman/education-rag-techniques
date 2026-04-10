@@ -10,7 +10,7 @@
 
 Built on top of everything in this repo, the book goes far deeper: the **intuition** behind every technique, **side-by-side comparisons** of when each one wins (and when it quietly fails), and **illustrations** that make the tricky parts finally click.
 
-### ⏳ Launch window only: **$0.99**
+### ⏳ **Free with Kindle Unlimited** or **$0.99** launch price
 
 The price goes up once the launch window closes. Readers who grab it now lock in the lowest price it will ever have, and get the same material that took months of research, writing, and iteration to put together.
 
